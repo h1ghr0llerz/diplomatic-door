@@ -1,0 +1,4 @@
+[submodule "PyGT-521F32"]
+	path = PyGT-521F32
+	url = https://github.com/0xa10/PyGT-521F32
+	branch = python2
